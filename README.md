@@ -1,7 +1,6 @@
 # ProgramReg — 安装注册程序（C++/Qt 版）
 
-将任意 Windows 应用程序注册到控制面板「程序和功能 / 卸载程序」界面的小工具。
-由 C# WinForms 版本（ProgramReg.old）重构而来，界面风格对齐 ExeSimplePackager。
+将任意 Windows 应用程序注册到控制面板「程序和功能 / 卸载程序」界面的小工具。界面风格对齐 ExeSimplePackager。
 
 ## 组成
 
