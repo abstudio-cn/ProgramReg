@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="ProgramReg.ico">../ProgramReg/icon.ico</file>
+        <file alias="UninstallHelper.ico">../UninstallHelper/icon.ico</file>
+    </qresource>
+</RCC>
